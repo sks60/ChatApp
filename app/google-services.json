@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "192824338395",
+    "firebase_url": "https://chatapp-78fce.firebaseio.com",
+    "project_id": "chatapp-78fce",
+    "storage_bucket": "chatapp-78fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192824338395:android:ffa2df08a60f0b6e",
+        "android_client_info": {
+          "package_name": "com.example.sandysaju.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192824338395-dpq6oegl58dvtqajl10ie965ka6gfm7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaWfGni2GKvpQXj_efoZjM2DoRZ92dFcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
